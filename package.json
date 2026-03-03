@@ -1,0 +1,33 @@
+{
+  "name": "git-rebase-helper",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Interactive rebase helper with visual branch graph and guided conflict resolution",
+  "bin": {
+    "git-rebase-helper": "./index.js",
+    "grh": "./index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "developer-tools",
+    "cli",
+    "nodejs",
+    "zero-dependencies",
+    "git",
+    "rebase",
+    "interactive",
+    "tui"
+  ],
+  "license": "MIT",
+  "author": "NickCirv",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NickCirv/git-rebase-helper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NickCirv/git-rebase-helper/issues"
+  },
+  "homepage": "https://github.com/NickCirv/git-rebase-helper#readme"
+}
