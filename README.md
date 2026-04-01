@@ -1,3 +1,5 @@
+![Banner](banner.svg)
+
 # git-rebase-helper
 
 Interactive rebase helper with visual branch graph and guided conflict resolution. Makes `git rebase -i` less scary.
